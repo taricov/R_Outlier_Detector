@@ -2,4 +2,4 @@
 
 Integrating R with Tableau, This is a simple algorithm using R to detect outliers in the tested dataset then I used Tableau to visualize the result. 
 
-!()[Outlier_Detector/outliers.png]
+![](Outlier_Detector/outliers.png)
