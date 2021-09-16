@@ -2,7 +2,7 @@
 library(mvoutlier)
 
 #Reading data
-data <- read.table('F:\\Work\\MLprojects\\R\\Outliers_Detector\\ProfitData.csv', sep=',', header=T)
+data <- read.table('Your Full File Pathe Goes Here\\ProfitData.csv', sep=',', header=T)
 
 #Viewing data
 data
